@@ -1,8 +1,9 @@
 # myportfolio
 This is a project which illustrate my information.
 This project use 
-1. Html5
-2. CSS
-3. Javascript
-4. jQurey
-5. Font Awesome
+1. Bootstrap framework
+2. Html5
+3. CSS
+4. Javascript
+5. jQurey
+6. Font Awesome
